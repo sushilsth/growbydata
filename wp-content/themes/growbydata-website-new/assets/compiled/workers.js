@@ -1,0 +1,1 @@
+var i=0;self.addEventListener("message",function(e){var t=e.data,n=new XMLHttpRequest;n.open("POST",t,!0),n.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),n.onload=function(){200===n.status&&self.postMessage(n.responseText)},n.send("action=getCountry")},!1);

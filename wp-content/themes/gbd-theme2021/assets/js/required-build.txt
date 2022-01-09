@@ -1,0 +1,7 @@
+r.js
+require.js
+require_config.js copy from js/require_config.js
+build.js
+main.js copy from js/main
+
+Run => node r.js -o build.js

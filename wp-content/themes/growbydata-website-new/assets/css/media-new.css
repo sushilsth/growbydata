@@ -1,0 +1,553 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1230px;
+    width: auto; } }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .gbd-team {
+    width: 45.5%;
+    margin: 15px; }
+  /*.container{
+  width:980px;
+}*/
+  svg {
+    width: 100%;
+    height: 100%; }
+  /*.gbd-home{
+
+.gbd-banner{
+padding-top:15px;
+
+.gbd-banner-left-content {
+padding-bottom:15px;
+height:auto;
+}
+p {
+font-size: 18px;
+margin-bottom:15px!important;
+}
+
+h1 {
+font-size:26px!important;
+margin-bottom:10px;
+text-align:left;
+margin-top:80px!important;
+
+}
+h2{
+font-size:23px;
+margin-bottom:30px;
+margin-top:0;
+
+}
+}
+}*/
+  .wpsm_testimonial .wpsm_testi_content {
+    min-height: 110px; }
+  /*SOLUTIONS PAGE*/
+  .gbd-default-circle {
+    margin: 0 15px !important; } }
+
+@media (min-width: 320px) and (max-width: 1024px) {
+  .gbd-banner h2 {
+    font-size: 30px;
+    margin-top: 0; }
+  .gbd-banner h1 {
+    font-size: 26px; }
+  .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial .wpsm_testimonial-review {
+    margin: 3px 0 0 10px !important;
+    float: left; }
+    .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial .wpsm_testimonial-review span {
+      font-size: 13px !important; }
+    .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial .wpsm_testimonial-review h3.wpsm_testimonial-title {
+      font-size: 13px !important;
+      color: #272727 !important;
+      font-family: 'Open Sans';
+      font-weight: 600 !important; }
+  /*.gbd-top-banner{
+font-size:14px!important;
+}
+.gbd-home{
+.gbd-banner{
+height:auto;
+}
+
+h2{
+font-size:24px;
+text-transform:uppercase!important;
+text-align:left!important;
+
+}
+/*.gbd-banner-left-content{
+padding-top:20px!important;
+padding-bottom:20px!important;
+}
+p {
+font-size: 16px;
+}
+h1{
+text-align: left;
+margin-top: 5px!important;
+font-size:22px;
+margin-bottom:10px;
+
+}
+
+}
+*/
+  .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial .wpsm_testi_description {
+    font-size: 15px !important; }
+  .gbd-inquiry {
+    font-size: 14px;
+    line-height: 20px; }
+  .Niche-Leaders-wrap li {
+    margin: 0 17px; }
+  .footer ul {
+    margin-right: 0px; }
+  .gbd-footer-btn {
+    width: auto; }
+  .footer ul {
+    margin-right: 0 !important; }
+  .social-icon {
+    text-align: right; }
+    .social-icon li.gbd-footer-btn {
+      margin: 0 !important;
+      width: 100% !important; }
+      .social-icon li.gbd-footer-btn a.join-mail, .social-icon li.gbd-footer-btn a.free-trial {
+        width: 100% !important;
+        font-size: 14px; }
+  .gbd-footer-btm .gbd-social .gbd-footer-icon {
+    margin-top: 0px; }
+  .gbd-footer-btm .gbd-social .social-icon {
+    float: none !important;
+    overflow: visible !important; }
+  .wpsm_testimonial .wpsm_testi_description {
+    line-height: 26px;
+    height: 80px;
+    display: table-cell;
+    font-size: 16px !important;
+    vertical-align: middle;
+    padding: 0 20px !important;
+    font-family: ubuntu, Arial, sans-serif !important; }
+  .gbd-inner-page-wrapper {
+    width: 100% !important; } }
+
+@media (max-width: 767px) {
+  .page-template .site-content {
+    padding-top: 40px !important;
+    padding-bottom: 40px; }
+  .home .site-content {
+    padding-bottom: 0px;
+    padding-top: 0px !important; }
+  .single-post .gbd-blog-article {
+    padding-top: 40px;
+    padding-bottom: 40px; }
+  .gbd-nav-container .site-branding {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%; }
+  .gbd-banner .gbd-banner-left-content {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important; }
+  svg, .gbd-repricing-steps-graph {
+    display: none; }
+  .page-template .gbd-main-wrap {
+    padding-top: 172px !important; }
+  .gbd-main-wrap {
+    padding-top: 170px !important; }
+  .gbd-shadow {
+    padding-top: 0px;
+    padding-bottom: 35px; }
+  .home .gbd-main-wrap {
+    padding-top: 122px !important; }
+  .vision-blocks .vision-block {
+    padding: 10px !important;
+    width: 100%;
+    margin-left: 0 !important; }
+  .gbd-banner-right-content {
+    display: none; }
+  /*Layout */
+  .container-small {
+    margin-left: 15px;
+    margin-right: 15px; }
+  .gbd-home .gbd-banner .container {
+    padding-top: 0px !important; }
+  .container {
+    padding-left: 15px !important;
+    padding-right: 15px !important; }
+  /*home page banner css */
+  .gbd-banner .container {
+    padding-top: 90px !important; }
+  .gbd-banner .free-trial {
+    width: 100% !important;
+    text-align: center;
+    font-size: 16px; }
+  .gbd-banner .gbd-banner .gbd-banner-left-content .free-trial {
+    width: 100% !important;
+    font-size: 18px; }
+  .gbd-banner h2 {
+    margin-top: 0 !important; }
+  .gbd-banner h3 {
+    margin-bottom: 20px !important; }
+  .gbd-banner p {
+    margin-bottom: 15px; }
+  .gbd-shadow {
+    padding-top: 20px !important;
+    padding-bottom: 20px; }
+  .gbd-leaders {
+    padding-top: 50px; }
+    .gbd-leaders .slideSign2 .gbd-arrow {
+      background-position: -1px -5px; }
+  /*Footer*/
+  .footer .gbd-footer-btm {
+    padding-top: 75px; }
+  .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial {
+    width: 100% !important;
+    display: block !important; }
+  .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial .wpsm_testi_description {
+    font-size: 15px !important; }
+  .gbd-success-stories .wpsm_testimonial .wpsm_testi_content {
+    height: auto !important;
+    min-height: auto !important;
+    display: block; }
+  .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial > .wpsm_testimonial-review span {
+    font-size: 13px !important; }
+  .gbd-inquiry {
+    display: block;
+    float: none !important; }
+  .gbd-free-report-banner h4 {
+    font-size: 13px; }
+  .gbd-free-report-banner h3 {
+    font-size: 21px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase; }
+  .gbd-free-report-banner p {
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 10px; }
+  .gbd-content p {
+    text-align: center;
+    font-size: 15px;
+    padding: 0px;
+    line-height: 20px; }
+  .gbd-free-report-banner h4 {
+    line-height: 30px; }
+  .gbd-home .gbd-banner {
+    background-size: cover !important;
+    height: auto;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 40px; }
+  .gbd-success-stories .wpsm_testimonial .wpsm_testimonial-review {
+    margin: 3px 0 0 10px !important;
+    float: left; }
+  .gbd-success-stories #wpsm_testi_b_row_731 .wpsm_testimonial h3.wpsm_testimonial-title {
+    font-size: 15px !important;
+    color: #272727 !important;
+    font-family: 'Open Sans';
+    font-weight: 600 !important; }
+  a.m-btn {
+    margin-bottom: 0px !important;
+    font-size: 14px; }
+  /*solutions Page*/
+  .gbd-content .entry-content-page p {
+    font-size: 19px; }
+  .gbd-content .entry-header h2.page-title {
+    font-size: 32px !important; }
+  .gbd-default-template .gbd-default-circle {
+    float: none !important;
+    margin: 0 auto;
+    display: block; }
+  .gbd-default-circle-block .gbd-default-circle.gbd-default-circle2 {
+    margin: 0 auto !important; }
+  /* Data feed labels*/
+  .gbd-sku-label-table table, .gbd-sku-label-table th, .gbd-sku-label-table td {
+    width: 100%; }
+  .gbd-you-get .gbd-default-title {
+    margin-bottom: 35px; }
+  .gbd-you-get li {
+    margin: 0 auto !important;
+    float: none !important;
+    display: block !important;
+    margin-bottom: 35px;
+    width: 100%; }
+  .vision-blocks .vision-block {
+    padding: 10px !important;
+    width: auto !important;
+    margin-left: 0 !important;
+    margin-bottom: 35px !important; }
+  .vision-blocks:last-child {
+    margin-bottom: 0 !important; }
+  .price-report-result {
+    text-align: center; }
+    .price-report-result .price-report-result-note {
+      width: 100%; }
+  /* MAIN MENU DROP DOWN*/
+  .nav .gbd-menu-haschild.active > ul,
+  .nav .gbd-menu-haschild.active > ul {
+    position: relative;
+    top: inherit;
+    margin: 0 auto; }
+  .nav .gbd-menu-haschild > ul li {
+    padding-left: 15px; }
+  /* FREE PRICE REPORT PAGE */
+  .gbd-you-will-thumbnail {
+    width: 100% !important; } }
+
+@media (min-width: 320px) and (max-width: 479px) {
+  .wpsm_testimonial .wpsm_testimonial-review {
+    margin: 0 !important;
+    float: none;
+    display: block !important;
+    width: 100%; }
+  .gbd-banner, .gbd-banner.gbd-data-banner {
+    padding-top: 20px; }
+  .gbd-banner .free-trial {
+    width: 100% !important;
+    font-size: 14px; }
+  .gbd-nav-container .site-branding {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%; }
+    .gbd-nav-container .site-branding .custom-logo {
+      margin-top: 5px !important; }
+  .gbd-banner h2 {
+    font-size: 19px; }
+  .gbd-banner h3 {
+    font-size: 22px !important; }
+  .gbd-banner p {
+    font-size: 15px;
+    line-height: normal; }
+  .gbd-banner .gbd-banner .free-trial {
+    font-size: 14px !important; }
+  .navbar-default .navbar-toggle {
+    margin-left: 10px;
+    border: none;
+    cursor: pointer !important; }
+  .nav .gbd-menu-haschild {
+    cursor: pointer; }
+  .nav .gbd-menu-haschild > ul li {
+    padding-left: 15px; }
+  .navbar-toggle .icon-bar:nth-of-type(2) {
+    top: 0; }
+  .navbar-toggle .icon-bar {
+    position: relative;
+    transition: all 500ms ease-in-out; }
+  .active .navbar-toggle .icon-bar:nth-of-type(1) {
+    top: 6px;
+    transform: rotate(45deg); }
+  .active .navbar-toggle .icon-bar:nth-of-type(2) {
+    background-color: transparent; }
+  .active .navbar-toggle .icon-bar:nth-of-type(3) {
+    top: -6px;
+    transform: rotate(-45deg); }
+  /*Leadership*/
+  .gbd-leadership .gbd-content {
+    padding-top: 30px !important; }
+  .gbd-content p {
+    text-align: center;
+    font-size: 15px !important;
+    padding: 10px;
+    line-height: 20px; }
+  .gbd-team {
+    margin: 16px auto;
+    float: none;
+    max-width: 320px !important; }
+  .team-info {
+    top: 81%;
+    padding-top: 13px; }
+  .team-block {
+    padding-bottom: 45px; }
+  .gbd-vision h2 {
+    text-align: center; }
+  .vision-img {
+    text-align: center; }
+  .gbd-team-content p {
+    padding: 0 !important;
+    text-align: left !important; } }
+
+@media only screen and (min-width: 768px) {
+  .navbar-nav > li > a {
+    padding-bottom: 31px; }
+  .nav .gbd-menu-haschild > ul {
+    padding: 7px 0;
+    top: 50%;
+    width: 240px;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    -ms-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    -o-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); }
+  .nav .gbd-menu-haschild > ul li {
+    float: none; } }
+
+/*@media only screen and (min-width: 1025px) {
+.nav .gbd-menu-haschild:hover > ul,
+.nav .gbd-menu-haschild:focus > ul {
+visibility: visible;
+filter: alpha(opacity=1);
+opacity: 1;
+top: 100%;
+}
+}
+@media only screen and (min-width: 768px) {
+.navbar-nav > li > a {
+padding-bottom: 31px;
+}
+.nav .gbd-menu-haschild > ul{
+padding: 7px 0;
+top: 50%;
+width: 240px;
+-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+-ms-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+-o-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.nav .gbd-menu-haschild > ul li{
+float: none;
+}
+}
+*/
+@media only screen and (max-width: 1024px) {
+  .gbd-banner .gbd-banner-right-content img {
+    padding-right: 15px; }
+  .gbd-banner .free-trial {
+    width: 95%;
+    font-size: 15px; }
+  /*FREE PRICE REPORT */
+  .gbd-you-will-thumbnail {
+    width: auto !important; }
+    .gbd-you-will-thumbnail h3 span {
+      font-size: 14px !important; }
+      .gbd-you-will-thumbnail h3 span i {
+        font-size: 16px !important; }
+  /*FREE PRICE REPORT ENDS HERE */ }
+
+/** Responsive css for vision **/
+@media (min-width: 768px) and (max-width: 992px) {
+  .gbd-carrers-page .career-block {
+    margin: 0px auto 0; }
+  .gbd-carrers-page .career-block blockquote {
+    height: 620px; }
+  .wpsm_testimonial .wpsm_testi_content {
+    min-height: 137px; } }
+
+@media (min-width: 768px) and (max-width: 980px) {
+  .get-free-quote h2:after {
+    display: none; }
+  .gbd-banner h1 {
+    font-size: 20px !important; }
+  .gbd-banner h2 {
+    font-size: 23px !important;
+    margin-bottom: 30px; }
+  .gbd-banner p {
+    font-size: 20px;
+    margin-bottom: 20px; }
+  .gbd-banner .free-trial {
+    font-size: 14px; } }
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .container-small {
+    margin: 0 !important; }
+  .row.vision-blocks {
+    width: auto; }
+  .home .row.vision-blocks {
+    padding: 0 !important;
+    width: 100% !important; }
+  .gbd-leadership .gbd-content p {
+    text-align: left !important;
+    font-size: 16px !important;
+    padding: 0px !important;
+    line-height: 22px !important;
+    margin-bottom: 0 !important; }
+  .gbd-carrers-page .career-block {
+    margin: 0px auto 0; }
+  .gbd-carrers-page .career-block blockquote {
+    height: auto;
+    margin-bottom: 0 !important;
+    min-height: initial; }
+  .gbd-carrers-page .overview-btn {
+    margin-bottom: 15px;
+    width: 100% !important; }
+  #wpsm_accordion_844 .wpsm_panel-body p {
+    font-size: 15px !important; } }
+
+/** Responsive css for vision **/
+@media (min-width: 991px) and (max-width: 1200px) {
+  .gbd-resource-execute {
+    height: 330px; } }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .gbd-resource-execute {
+    height: 400px !important; } }
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .gbd-vision .gbd-content h3 br {
+    display: none; }
+  .gbd-vision .gbd-data-revolution, .gbd-vision .gbd-vision-blocks {
+    margin-bottom: 30px;
+    padding-bottom: 35px; }
+  .gbd-resource-execute {
+    margin-top: 30px;
+    height: auto; }
+  .gbd-vision .gbd-content .gbd-vision-bottom .row {
+    margin-bottom: 0px;
+    padding-bottom: 0px; }
+  .gbd-vision .gbd-content {
+    margin-bottom: 0; }
+  .gbd-vision .row.vision-blocks {
+    padding: 0; }
+  .gbd-vision-wrapper p {
+    font-size: 16px !important;
+    line-height: 22px !important;
+    padding: 0 !important; }
+  .gbd-vision .gbd-content h3 {
+    font-size: 24px !important;
+    line-height: 32px !important; }
+  .gbd-vision .row.data-revolution {
+    margin-bottom: 0px !important; }
+  .data-revolution .vision-img img {
+    float: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px; } }
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .vision-blocks-description br {
+    display: none; } }
+
+@media (min-width: 1025px) and (max-width: 1300px) {
+  .gbd-banner h1 {
+    font-size: 26px; }
+  .gbd-banner h2 {
+    font-size: 30px !important; } }
+
+@media (max-width: 991px) {
+  .container {
+    max-width: 1022px !important;
+    margin: 0 auto;
+    width: 98%; } }
+
+@media (max-width: 1200px) {
+  .gbd-inner-page-wrapper {
+    width: 100% !important; } }
+
+@media (max-width: 1199px) {
+  .get-free-quote select, .get-free-quote label {
+    font-size: 13px !important; }
+  .quick-quote-form select.styled {
+    font-size: 13px !important;
+    padding-left: 10px; }
+  .get-free-quote h2:after {
+    content: '';
+    background: url(../../images/corner-image.png) no-repeat;
+    height: 116px;
+    width: 15px;
+    float: right;
+    position: absolute;
+    top: 41px;
+    right: -3px;
+    margin-right: 15px;
+    z-index: 2; } }

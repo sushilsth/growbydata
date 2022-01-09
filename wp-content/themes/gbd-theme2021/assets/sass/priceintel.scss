@@ -1,0 +1,393 @@
+/* Price Intelligence */
+.gbd-default-template.price-intelligence {
+margin-top: 0;
+margin-bottom: 0;
+}
+.price-intel-banner {
+background: #214044 url(../../images/banner-bg-price-intel.jpg) no-repeat !important;
+background-position-x: 0%;
+background-position-y: 0%;
+background-size: auto;
+background-position: calc(100%) calc(100%) !important;
+background-size: cover !important;
+}
+.price-intel-banner .banner-rightimg {
+display: block;
+}
+.bgwhite {
+background: #fff;
+padding: 40px 0 40px 0;
+}
+.what-included-img {
+margin: 30px 0 50px;
+}
+.what-included-img picture {
+width: 830px;
+margin: 0 auto;
+display: block;
+}
+.what-included .subtitle {
+color: #000;
+}
+.price-intelligence .price-intel-banner h1 {
+font-size: 2.5em;
+color: #fff;
+margin-top: 0;
+padding-right: 42px;
+}
+.price-intelligence .price-intel-banner p {
+font-size: 26px;
+line-height: 36px;
+margin-bottom: 30px;
+color: #fff;
+}
+.bgwhite p {
+font-size: 22px;
+line-height: normal;
+color: #272725;
+}
+.right-text-list h2 {
+text-align: left;
+font-size: 2.5em;
+font-weight: 700;
+}
+.right-text-list ul {
+list-style: none;
+font-size: 22px;
+}
+.right-text-list ul li {
+text-indent: -.8em;
+margin-left: .8em;
+position: relative;
+padding-bottom: 10px;
+font-size: 22px;
+line-height: normal;
+}
+.right-text-list ul li:before {
+content: "• ";
+color: #ffa21f;
+vertical-align: text-bottom;
+margin-right: .25em;
+font-size: 19px;
+}
+.price-intelligence  .entry-content-page {
+line-height: 28px;
+color: #272727;
+text-align: center;
+font-family: Ubuntu,sans-serif;
+font-size: 22px;
+}
+.gbd-whatincluded {
+color: #000;
+margin-bottom: 20px;
+}
+.gbd-whatincluded .title h2 {
+font-size: 1.5em;
+font-weight: bold;
+margin-bottom: 7px;
+}
+.gbd-whatincluded .title ul {
+list-style: none;
+font-size: 22px;
+margin-bottom: 15px;
+}
+.gbd-whatincluded .title ul li {
+text-indent: -.8em;
+margin-left: .8em;
+position: relative;
+padding-bottom: 10px;
+font-size: 23px;
+line-height: normal;
+}
+.gbd-whatincluded .title a {
+    color: #4a969e;
+    text-decoration: underline;
+}
+.gbd-whatincluded .title ul li:before {
+content: "• ";
+color: #ffa21f;
+vertical-align: text-bottom;
+margin-right: .25em;
+font-size: 19px;
+}
+.gbd-whatincluded.gdb-whatincluded-2 .title ul {
+margin-bottom: 40px;
+}
+.gbd-retail-price-accordin {
+margin: 30px 0 50px 0;
+font-family: Ubuntu,sans-serif !important;
+}
+.gbd-retail-price-table td, .gbd-retail-price-table th {
+border: 1px solid #dfdfdf !important;
+padding: 10px !important;
+}
+.gbd-insights-price-intelligence {
+border-top: 1px solid #dfdfdf;
+padding: 25px 0 70px;
+background: #f5f8fb;
+}
+.gbd-insights-price-intelligence h3 {
+font-size: 30px;
+font-weight: 700 !important;
+margin-top: 15px;
+margin-bottom: 35px;
+}
+.gbd-insights-price-intelligence .gbd-blog-wrapper {
+margin-bottom: 0;
+}
+.gbd-view-all-btn {
+color: #000 !important;
+margin: 0 auto;
+display: block;
+width: 200px;
+}
+.gbd-blog-wrapper .gbd-blog-posts article:first-child, 
+.gbd-blog-wrapper .gbd-blog-posts article:nth-child(3n+1) {
+margin-left: 0;
+clear: both;
+}
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 31%;
+margin-left: 35px;
+-moz-transition: all 0.2s linear;
+transition: all 0.2s linear;
+padding-bottom: 0 !important;
+margin-bottom: 40px !important;
+position: relative;
+}
+.gbd-post-content-block {
+background: #fff;
+}
+.gbd-insights-price-intelligence .gbd-blog-contents-new {
+background: #fff;
+}
+.gbd-blog-contents-new {
+min-height: 331px;
+}
+.gbd-featured-blog-img {
+height: 190px;
+overflow: hidden;
+position: relative;
+}
+.gbd-header-content-blog {
+padding: 15px;
+background: #fff;
+}
+.gbd-featured-category-like {
+position: absolute;
+top: 0;
+z-index: 9;
+left: 0;
+margin-top: 0;
+}
+.gbd-post-content-block .gbd-featured-category-detail {
+font-weight: 700;
+font-size: 16px;
+text-transform: capitalize;
+}
+.gbd-featured-category-detail {
+width: auto;
+height: 30px;
+font-size: 13px;
+text-transform: uppercase;
+line-height: 30px;
+background: #e0ecf3;
+float: left;
+padding-left: 25px;
+padding-right: 25px;
+}
+.gbd-header-content-blog .entry-header .entry-title {
+margin: 0;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+height: 60px;
+overflow: hidden;
+}
+.gbd-header-content-blog .entry-title a {
+color: #272727 !important;
+font-size: 20px;
+line-height: 28px;
+text-align: left;
+font-weight: 700;
+}
+.gbd-header-content-blog .entry-meta {
+display: inline-block;
+margin: 0;
+}
+.gbd-header-content-blog .posted-on {
+font-size: 12px;
+color: #888;
+margin-bottom: 0;
+display: block;
+margin-top: 0;
+}
+.gbd-reading-time {
+display: inline-flex;
+font-size: 12px;
+}
+span.span-reading-time.rt-reading-time {
+display: inline-block;
+padding-left: 2px;
+}
+span.rt-label {
+float: right;
+padding-left: 2px;
+}
+.gbd-blog-tags .fa {
+color: #272727;
+font-size: 12px;
+}
+.gbd-blog-tags span a {
+color: #272727;
+font-style: italic;
+text-transform: capitalize;
+font-size: 12px;
+line-height: 18px;
+}
+.gbd-header-content-blog .entry-title a:hover {
+color: #ffa41f !important;
+text-decoration: none;
+}
+.what-included .subtitle h2 {
+font-weight: 700;
+}
+@media (max-width:1399px) and (min-width:1200px) { 
+.gbd-inner-page-wrapper {
+width: 80%;
+margin: 0 auto;
+}
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 31%;
+}
+}
+@media (max-width:1199px) and (min-width:1025px) { 
+.gbd-inner-page-wrapper {
+width: 100%;
+margin: 0 auto;
+}
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 30%;
+}
+.gbd-featured-blog-img {
+height: 150px;
+}
+.gbd-whatincluded.gdb-whatincluded-2 .title ul {
+margin-bottom: 70px;
+}
+}
+@media (max-width:1024px) and (min-width:992px) {  
+.gbd-inner-page-wrapper {
+width: 100%;
+margin: 0 auto;
+}
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 29.9%;
+}
+.gbd-featured-blog-img {
+height: 150px;
+}
+.gbd-whatincluded.gdb-whatincluded-2 .title ul {
+margin-bottom: 70px;
+}
+.price-intelligence .price-intel-banner h1 {
+font-size: 2em;
+padding-right: 20px;
+}
+.price-intelligence .price-intel-banner p {
+font-size: 20px;
+line-height: 28px;
+margin-bottom: 20px;
+}
+.price-intelligence .price-intel-banner .orange_btn {
+font-size: 1rem;
+}
+}
+@media (max-width:991px) and (min-width:768px) { 
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 29.9%;
+}
+.gbd-inner-page-wrapper {
+width: 100%;
+}
+.gbd-featured-blog-img {
+height: 112px;
+}
+.what-included-img picture {
+width: 100%;
+}
+.gbd-whatincluded .title ul li {
+font-size: 19px;
+}
+.price-intelligence .price-intel-banner h1 {
+font-size: 2em;
+padding-right: 20px;
+}
+.price-intelligence .price-intel-banner p {
+font-size: 20px;
+line-height: 28px;
+margin-bottom: 20px;
+}
+.price-intelligence .price-intel-banner .orange_btn {
+font-size: 1rem;
+}
+}
+@media (max-width:767px) and (min-width:320px) { 
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 29.9%;
+}
+.gbd-inner-page-wrapper {
+width: 100%;
+}
+.gbd-featured-blog-img {
+height: 112px;
+}
+.gbd-blog-wrapper .gbd-blog-posts article {
+margin: 0 auto 25px !important;
+float: none;
+}
+.gbd-featured-blog-img {
+height: 164px !important;
+}
+.what-included-img picture {
+width: 100%;
+}
+.price-intelligence .price-intel-banner h1 {
+padding-right: 0;
+text-align: center;
+font-size: 2rem !important;
+}
+.price-intelligence .price-intel-banner p {
+font-size: 1.5rem;
+text-align: Center;
+line-height: 28px;
+}
+.price-intelligence .gbd-whatincluded p {
+text-align: left;
+}
+.gbd-whatincluded .title ul li {
+font-size: 18px;
+}
+.gbd-whatincluded .title h2 {
+font-size: 1.2em;
+}
+.background-light, 
+.bgwhite {
+padding: 30px !important;
+}
+.right-text-list ul li {
+font-size: 18px !important;
+line-height: 24px !important;
+}
+}
+@media (max-width:767px) and (min-width:500px) {
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 50%;
+}
+}
+@media (max-width:499px) and (min-width:320px) {
+.gbd-blog-wrapper .gbd-blog-posts article {
+width: 100%;
+}
+}
+/* End Price Intelligence */

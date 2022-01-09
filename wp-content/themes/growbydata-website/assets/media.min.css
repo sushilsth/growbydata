@@ -1,0 +1,297 @@
+/* Mobile Portrait and Landscape */
+@media (min-width: 320px) and (max-width: 767px) {
+    .container-small {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .gbd-link{
+        text-align: center;
+    }
+
+    #secondary .widget{ padding: 0 0 20px }
+
+    .gbd-main-wrap{ padding-top: 61px;}
+    .gbd-main-wrap .navbar-default .gbd-nav{margin-top: 24px;}
+    /*delete br*/
+    .vision-blocks blockquote p br, .vision-blocks .col-md-4 br, .gbd-contact-us .gbd-content p br, .overview-content p br, .gbd-home .gbd-banner p br, .gbd-data-serv .btm-content p.serv-txt br, .gbd-home.cat-block .btm-content h3 br{display: none}
+
+    /*Top menu bar*/
+    .navbar-default{position: absolute; }
+    .admin-bar .navbar-default {top: 46px;}
+
+    .gbd-main-wrap .navbar-default .navbar-header, .gbd-main-wrap .navbar-default.shrink .navbar-header{ margin-top: 0; padding-bottom: 0;  padding-top: 12px;}
+    h1 a.navbar-brand{ width: 171px; height: 38px; margin-left: 14px;}
+    .nav li{float: none;}
+    .gbd-main-wrap .navbar-default .gbd-nav{float: none; margin-top: 0; padding-top: 0; padding: 0;}
+    .gbd-main-wrap .navbar-default .gbd-nav.in{ display: block !important; height: 100% !important;}
+    .nav li.gbd-top-login{position: static }
+    .gbd-nav .navbar-nav{ background: #e6e6e6; margin: 0;}
+    .nav .divider{ background-color: #d9d9d9;  height: 1px; margin:9px 0;overflow: hidden;}
+    .gbd-main-wrap .navbar-default.shrink .gbd-nav{padding-top: 0;}
+    .nav li.gbd-top-login a{ font-weight: 400; padding: 0 15px 13px 15px;}
+    .navbar-nav li.gbd-free-trial a, .navbar-nav li.gbd-free-trial a:hover, .navbar-nav li.gbd-free-trial a:hover, .navbar-nav li.gbd-free-trial:hover{margin: 15px 10px; text-align: center}
+    .gbd-top-btn{float: right; cursor: pointer !important;}
+    .gbd-top-btn.active{ background:#e6e6e6 }
+    .navbar-default .navbar-toggle{margin-left: 10px; border: none; cursor: pointer !important;}
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{ background: none}
+
+    .vision-blocks .col-md-4 {font-size: 14px; line-height: 21px;}
+    .gbd-home .gbd-content .vision-blocks div strong{font-size: 16px;}
+    .gbd-arrow{display: block}
+    .slideSign2 .gbd-arrow{ background-position: 0 0;}
+    .gbd-pop-block{ max-width: 260px !important; padding: 20px; margin-right: auto; margin-left: auto}
+    .gbd-pop-block .modal-content{padding: 0;}
+    #integration-form h3, #free-trial-header h3, #data-scheduleform h3, #cat-scheduleform h3, #inte-scheduleform h3, #mazon-form h3, #data-solution h3, #sol-scheduleform h3, #google-form h3, #data-serviceform h3, #data-engform h3, #data-anyform h3, #data-servform h3, #catalog-form h3{font-size: 16px; margin-bottom: 10px;}
+    .gbd-pop-block .form-control{height: 40px;}
+    .gbd-pop-block button.red-btn{font-size: 14px; height: 41px; line-height: 22px;}
+
+    /*BANNER*/
+    .gbd-banner h2{ font-weight: 500; font-size: 37px;}
+    .gbd-banner .container { padding-top: 59px; }
+    .gbd-banner, .gbd-banner.gbd-cat-banner, .gbd-banner.gbd-data-banner{ background-size: cover !important; height: auto; padding-bottom: 0; padding-top: 0;}
+
+    .gbd-banner .gbd-shadow, .gbd-banner.gbd-cat-banner .gbd-shadow, .gbd-banner.gbd-data-banner .gbd-shadow{padding-bottom: 15px;}
+    .gbd-banner.gbd-cat-banner, .gbd-banner.gbd-data-banner{padding-bottom: 0}
+    .gbd-banner .gbd-shadow-inner, .gbd-data-banner .gbd-shadow-inner{background-position: center 100% !important;}
+    .gbd-main-wrap{min-width: inherit}
+    .gbd-banner p{font-size: 19px; font-weight: 300; line-height: 27px;}
+    .gbd-banner a.m-btn{ margin: 5px 0 !important}
+
+    .resource-btn, a.red-btn, button.red-btn{ height: auto !important; line-height: 18px !important; font-size: 14px !important; padding: 20px 18px 18px 18px !important	}
+    .amazon-sale{background-size:117% auto; background-position: 0 0; }
+    .amazon-sale .container{background-position: left top; background-size: 38% auto;}
+    .amazon-sale h3, .google-sale h3{font-size: 24px; font-weight: 500;  padding-bottom: 10px;}
+    .amazon-sale p, .google-sale p{font-size: 16px;  line-height: 24px;}
+    .amazon-sale .container{height: auto;}
+    .amazon-sale a, .google-sale a{font-size: 14px;}
+    .google-sale{background-position: 0 0; background-size: 97% auto }
+    .google-sale .container{background-position: 129% top; background-size: 58% auto; height: auto;}
+
+    .gbd-leaders span.gbd-allcaps{font-size: 12px; line-height: 19px; margin: 0;}
+    .footer ul{ margin-right: 83px;}
+    .footer ul.gbd-left{margin-right: 0;}
+    .gbd-footer-btm p.gbd-inquiry{line-height: 25px; padding-bottom: 10px; float: left !important;}
+    .gbd-footer-btm p.gbd-inquiry a{display: block; margin-left: 0;}
+    .gbd-mail{background-position: -409px 4px;}
+    .footer .gbd-footer-btm{padding-top: 100px}
+    .gbd-btm-logo{ position: absolute; top:-65px;}
+    .footer ul.social-icon{ overflow: hidden}
+    .gbd-social{ float: none !important;}
+    .gbd-social .social-icon{ float: left !important;}
+    .gbd-social .social-icon li{ float: left; display: block;}
+    .gbd-home .gbd-content h3{font-size: 24px; line-height: 30px; padding: 0 10px; padding-bottom: 30px;}
+    .gbd-leaders .gbd-allcaps{  cursor: pointer }
+    .gbd-ecommerce-wrap { border-bottom:solid 1px #ddd; margin-bottom: 30px; padding:40px 0 30px 0;}
+    .ecommerce-wrap{padding-top: 27px;}
+    .gbd-niche{  margin-bottom: 0 !important;}
+    .Niche-Leaders-wrap{   padding-top: 27px;}
+
+    /*Catalog page*/
+    .gbd-banner.gbd-in-banner .container{padding-top: 60px;}
+    .gbd-banner.gbd-cat-banner .container, .gbd-banner.gbd-data-banner .container, .gbd-banner.gbd-in-banner .container{padding-top: 10px; padding-bottom: 15px}
+    .btm-img{width: 100%}
+    .gbd-home.cat-block .btm-content h3{font-size: 21px; line-height: 30px; padding-bottom: 20px;}
+    .vision-blocks blockquote p{font-size: 18px;}
+    .vision-blocks blockquote{padding-left: 0; padding-right: 0;}
+    .info-box{margin: 0 auto; float: none}
+    .greek-logo{margin-top: 28px;}
+    .one-source{background-position: 0 -71px; background-size: 178% auto; height: 145px;width: 276px; }
+    .do-less{ background-position: 0 -239px; background-size: 181% auto; height: 220px;width: 300px;}
+    .premium-data{ background-position: 0 -239px; background-size: 181% auto; height: 220px;width: 300px;}
+    .premium-data{background-position: -324px 0;
+        background-size: 217% auto;
+        height: 239px;
+        width: 265px;}
+
+    /*DATA SERVICE*/
+    .gbd-banner.gbd-data-banner{Background-color: #000; background-size: 308% auto;}
+    .data-box .col-md-4{ text-align: center;  margin-right: 0;  margin-bottom: 15px;}
+    .data-box h2, .data-box p{text-align: center}
+    .data-box a.red-btn{ margin:0 auto; display: block; width: 254px;}
+    .data-box .col-md-4 img{width: 70%; max-width: 260px;}
+    .data-block .info-padding{ margin: 0 auto;}
+    .schuler-logo{margin-top: 28px; height: 308px;}
+    .enrich-data-block .schuler-logo{margin-top: 0;}
+    .enrich-data-block .wizard-logo{margin-top: 28px;}
+    .data-box{margin-bottom: 0;}
+    .data-box h2{font-size: 24px;}
+    .btm-content-btn{padding: 40px 0 !important;}
+    .support-wrap .data-box .col-md-7{ margin-top: 50px;}
+
+    /*Contact US*/
+    .gbd-contact-us .gbd-content h2, .gbd-leadership h2, .gbd-vision.gbd-com h2, .gbd-vision h2, .gbd-overview h2{font-size: 30px; margin-top: 0;}
+    .gbd-contact-us .gbd-content p{font-size: 16px; line-height: 24px;}
+    #contact_form{margin-top: 40px; margin-bottom: 20px;}
+    .gbd-contact-us .gbd-content h3{margin-top: 15px; font-size: 24px;}
+
+
+    /*Leadership*/
+    .gbd-leadership .gbd-content{padding-top: 30px !important;}
+    .gbd-leadership .gbd-content p, .gbd-content p{text-align: center; font-size: 15px; padding: 10px; line-height: 20px;}
+    .gbd-team{ margin: 16px auto; float: none; max-width: 300px;}
+    .team-info{top:81%; padding-top: 13px;}
+    .team-block{padding-bottom: 45px;}
+    .gbd-vision h2{text-align: center}
+    .vision-img{text-align: center}
+
+    /*Community*/
+    .gbd-vision .gbd-content h3{font-size: 24px;  padding-bottom: 20px; padding-top: 0; line-height: 30px;}
+    .gbd-vision .gbd-content .row{margin-bottom: 30px; padding-bottom: 30px;}
+    .gbd-main-wrap.gbd-com .gbd-space, .gbd-main-wrap.gbd-vision .gbd-space{padding-top: 0 !important;}
+
+    /*smart source*/
+    .smrt-block p{min-height: inherit}
+    .smrt-block div{margin-bottom: 0;}
+    .dataentry2-header{ padding-bottom: 20px;}
+    .career-block{ margin: 72px auto 0;  padding-bottom: 20px; height: auto;}
+    .gbd-overview .gbd-space{ padding-top: 35px !important;}
+    .gbd-content .career-box p{text-align: left; padding-left: 0;}
+    .accordion-group{ margin-bottom: 0;margin-top: 20px;}
+    .gbd-overview h3{ margin-bottom: 0}
+    .career-box h3 a{font-size: 18px;}
+
+    /*Integration*/
+    .inti-blocks ul.amazon-block, .inti-blocks ul.google-block{float: none; margin: 28px auto 0; background-position: 0 24px; padding-left: 0; padding-top: 60px;}
+    .gbd-banner.gbd-in-banner{padding-bottom: 0; height: auto;    background-color: #000;}
+    .sup-ecommerce-sprite{margin: 0 20px;}
+
+    .btm-content{padding-top: 40px;padding-bottom: 50px !important;}
+    .greek-logo.info-padding{ margin-top: 0;}
+    .vision-blocks blockquote{ margin-bottom: 20px;}
+
+    .ecommerce-wrap, .Niche-Leaders-wrap{ display: none}
+    .inti-blocks-wrap span{font-size: 15px;}
+
+    #ic_signupform .elcontainer .form-header h3{font-size: 21px !important;}
+    #ic_signupform .form-header{ margin: 0!important; padding: 0 10px 5px 10px!important; }
+    #ic_signupform .sortables .fieldtype-checkbox h3{font-size: 16px !important}
+    .step-image-wrapper { width: 90px; }
+    .step-details { width: calc(100% - 115px); }
+    .Niche-Leaders-wrap li.gbd-greekgear{ margin-left: auto; margin-right: auto}
+
+}
+@media (max-width: 991px) {
+    .container {
+        max-width: 1022px !important;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .gbd-banner.gbd-data-identifiers {  background-position: 35% 0; }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .resource-sprite{ width: 220px;}
+    .resource-sprite.people{ background-position: -25px;}
+    .amazon-sale{ background-position: right top;  }
+}
+@media (min-width: 520px) and (max-width: 767px){
+    .amazon-sale, .google-sale{  background-size: cover;  }
+    .amazon-sale{ background-position: right top;  }
+    .amazon-sale .container {  background-position: left bottom;  }
+    .google-sale .container{  background-position: right bottom;  background-size: 40% auto;  }
+    .amazon-sale .slideLeft {  padding-left: 40%;  padding-bottom: 20px;  }
+    .google-sale .slideRight{  padding-right: 40%;  padding-bottom: 20px;  }
+}
+@media (max-width: 520px){
+    .amazon-sale .container div, .google-sale .container div{ padding-top: 43%; padding-left: 5px;  padding-bottom: 40px; padding-right: 5px;}
+
+}
+@media (min-width: 360px) and (max-width: 480px){
+    .gbd-banner, .gbd-banner.gbd-data-banner{background-size: cover;}
+    .gbd-banner.gbd-in-banner{ background-size: 310% auto;  }
+}
+
+@media (max-width: 480px) and (min-width: 361px){
+    .gbd-banner.gbd-cat-banner {
+        background-size: cover !important;
+    }
+}
+@media (min-width: 361px) and (max-width: 480px){
+    .gbd-banner.gbd-in-banner {
+        background-position: 39% 0;
+        background-size: cover;
+    }
+    .gbd-banner.gbd-in-banner {
+        background-size: cover;
+    }
+}
+
+/* Tablet Portrait and Landscape */
+@media (min-width: 768px) and (max-width: 1280px){
+    .hidden-md{display: none !important;}
+    h1 a.navbar-brand{width: 172px;}
+    .gbd-main-wrap .navbar-default li a{font-size: 14px; padding-left: 10px; padding-right: 10px;}
+    .btm-img{width: 69%}
+    .gbd-vision .gbd-content .vision-blocks div strong, .gbd-home .gbd-content .vision-blocks div strong{font-size: 16px;}
+    .cat-block .vision-blocks .col-md-4{font-size: 13px;}
+    .vision-blocks blockquote p{font-size: 20px; line-height: 32px;}
+    .gbd-main-wrap .navbar-default .navbar-header{float: left}
+    .google-sale{ background-position: 127% top;}
+
+
+}
+@media (min-width: 760px) and (max-width: 1007px) {
+    .google-sale{ background-position: -68% top;}
+    .google-sale .container{background-position: 151% bottom}
+    .data-block .info-box{ float: none; margin: 10px auto !important;}
+    .smrt-block p{min-height: inherit}
+    .smrt-block div.smt-btm{ margin-bottom: 45px;}
+    .data-block .info-box.greek-logo, .data-block .info-box.schuler-logo{margin-top: 28px !important; margin-bottom: 28px !important;}
+
+    .gbd-team{ width: 45%;}
+    .career-block{ margin: 72px auto 0;}
+    .inti-blocks ul.amazon-block, .inti-blocks ul.google-block{float: none; margin: 28px auto 0; background-position: 0 24px; padding-left: 0; padding-top: 60px;}
+
+    /*DATA SERVICE*/
+    .gbd-banner.gbd-data-banner{Background-color: #000; background-size: cover; background-position: 0 0;}
+    .data-box .col-md-4{ text-align: center;  margin-right: 0;  margin-bottom: 15px;}
+    .data-box h2, .data-box p{text-align: center}
+    .data-box a.red-btn{ margin:0 auto; display: block; width: 254px;}
+    .data-box .col-md-4 img{width: 70%; max-width: 260px;}
+    .data-block .info-padding{ margin: 0 auto;}
+    .data-box{margin-bottom: 0;}
+    .data-box h2{font-size: 24px;}
+    .btm-content-btn{padding: 40px 0 !important;}
+    .support-wrap .data-box .col-md-7{ margin-top: 50px;}
+    .team-info{top: 79%;}
+    .col-md-4.vision-img{float: left}
+    .gbd-content .gbd-team p{font-size: 12px;}
+
+}
+@media (max-width: 360px) and (min-width: 340px){
+    .gbd-banner.gbd-cat-banner.gbd-mobile-banner {
+        background-size: 100% auto;
+    }
+    .gbd-banner.gbd-cat-banner.gbd-mobile-banner p {
+        margin-bottom: 78px;
+    }
+    .resource-btn, a.red-btn, button.red-btn{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media (max-width: 640px){
+    /*.gbd-banner.gbd-cat-banner.gbd-mobile-banner p {*/
+    /*margin-bottom: 78px;*/
+    /*}*/
+    .gbd-banner.gbd-in-banner {
+        background-position: 15% 0 !important;
+    }
+}
+
+@media screen and (max-width:700px){
+
+    .solution-overview .row div{ padding:20px !important;}
+
+}
+@media screen  and (min-width:320px) and (max-width:640px) {
+    .solution-overview .row div span{margin: 0 auto 20px !important;}
+    .solution-overview .row p{  height: 75px !important;}
+
+}
+
+@media screen  and (min-width:900px) and (max-width:1200px) {
+    .google-sale {
+        background-position:165px 0 ;
+    }
+}

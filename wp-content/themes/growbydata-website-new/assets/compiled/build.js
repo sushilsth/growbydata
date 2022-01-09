@@ -1,0 +1,18 @@
+{
+	appDir:'',
+	dir:'compiled',
+	mainConfigFile:'require_config.js',
+	modules:[
+		{
+			name:"main",
+			include:[
+				'jquery',
+				'bootstrap',
+				'lazyload',
+				'slickslider',
+				'matchheight',
+				'jqueryvalidate'
+			]
+		}
+	]
+}

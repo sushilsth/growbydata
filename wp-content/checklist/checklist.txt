@@ -1,0 +1,32 @@
+Checklist (1)
+
+1. Enable plugin "Advanced noCaptcha & invisible captcha".
+2. Go to Settings >> Advanced noCaptcha & invisible captcha.
+3. Place below information
+Site Key : 6LdW634UAAAAAAMtkoqBm4fQdVXDDqA92iJf5j8E
+Secret Key : 6LdW634UAAAAAIAGXQ7E3YzQYSe_5TeyIOef8x8p
+Language : Auto Detect
+Theme: Light
+Size: Normal
+Badge: Inline
+Show Captcha on: Login Form + Comment Form
+Tick on "Hide Captcha for logged in users?"
+4. Click Save Options button.
+
+------------Complete-----------------
+
+Checklist (2)
+Social Media Auto Publish
+1. Activate this plugin.
+2. Login into facebook App page "https://developers.facebook.com/apps" and create new app as suggested by Social Media plugin's links.
+3. From plugin main page, copy OAuth redirect URLs and paste it in "Facebook Login" settings in "Valid OAuth Redirect URIs" field.
+4. Go to "Settings >> Basic" page of Facebook App and copy "App ID" and "App Secret" and place it in respective plugin fields.
+5. Save the settings and click the AUTHORIZE button at top left of Facebook Settings tab to link and give permission for this admin panel on the facebook account.
+6. Now, create/update one post with ensuring that the facebook settings is enable in post before Update/Save.
+
+
+Checklist (3)
+User Role Editor : New plugin installed to create demo user for Facebook Review process.
+demo/demo : username/password
+Subscriber : user type
+manage_options : capabilities, edit_published_posts, edit_posts /permission given
